@@ -59,7 +59,7 @@
     if __name__ == "__main__":
         pytest.main()
 
-Отчет pylint: pylint_report.txt
+### Отчет pylint: pylint_report.txt
 
     --------------------------------------------------------------------
     Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
