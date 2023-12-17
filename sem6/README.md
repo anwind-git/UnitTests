@@ -65,4 +65,5 @@
     Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
 Отчет о покрытии тестами:
+
 ![](Screenshot_20231217_140355.png)
