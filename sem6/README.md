@@ -1,4 +1,4 @@
-Код программы: list_comparator.py
+### Код программы: list_comparator.py
 
 
     class ListComparator:
@@ -30,7 +30,7 @@
             else "Средние значения равны"
         )
 
-Код тестов: test.py
+### Код тестов: test.py
     
     def test_first_list_is_bigger():
         list1 = [6, 7, 8, 9, 10]
@@ -64,6 +64,7 @@
     --------------------------------------------------------------------
     Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
-Отчет о покрытии тестами:
+### Отчет о покрытии тестами:
 
 ![](Screenshot_20231217_140355.png)
+
